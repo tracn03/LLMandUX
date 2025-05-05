@@ -1,0 +1,6 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,50.00
+102,Smartphone,Electronics,50.00
+103,Headphones,Electronics,75.00
+104,Tablet,Electronics,100.00
+105,Keyboard,Accessories,25.00 
